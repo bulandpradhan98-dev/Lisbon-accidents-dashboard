@@ -1,2 +1,2 @@
 # Lisbon-accidents-dashboard
-Tools and Techniques for Geospatial ML
+Tools and Techniques for Geospatial ML Capstone Project
