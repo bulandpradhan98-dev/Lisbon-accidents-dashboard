@@ -4,3 +4,5 @@ shapely
 folium
 streamlit-folium
 plotly
+streamlit==1.37.1
+altair==5.5.0
